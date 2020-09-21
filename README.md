@@ -1,0 +1,1 @@
+A GUI-based bookstore that allows one to view, add, delete, update and search for a book. Package 'tkinter' was used for the GUI. Package 'sqlite3' was used to create and maintain the 'books.db' database.
